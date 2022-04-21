@@ -1,4 +1,4 @@
-baseURL: https://example.com/
+baseURL: https://www.886400.xyz/
 theme: pure
 title: Pure theme for Hugo
 copyright: CC BY 4.0 CN
@@ -100,11 +100,11 @@ params:
     enabled: true # Whether to show profile bar
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-    author: xiaoheiAh
+    author: 朱颂普
     author_title: author title
     author_description: Good Good Study, Day Day Up~
-    location: Shanghai, China
-    follow: https://github.com/xiaoheiAh
+    location: NingBo, China
+    #follow: https://github.com/xiaoheiAh
     # Social Links
     social:
       links:
@@ -129,8 +129,8 @@ params:
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
   share:
     enable: true # 是否启用分享
-    sites: weibo,qq,wechat,facebook,twitter # PC端显示的分享图标
-    mobile_sites: weibo,qq,qzone # 移动端显示的分享图标
+    sites: wechat,twitter # PC端显示的分享图标
+    mobile_sites: wechat # 移动端显示的分享图标
 
   # Comment
   comment:
