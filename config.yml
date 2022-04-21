@@ -2,7 +2,7 @@ baseURL: https://www.886400.xyz/
 theme: pure
 title: Pure theme for Hugo
 copyright: CC BY 4.0 CN
-defaultContentLanguage: en  # en/zh/...
+defaultContentLanguage: zh  # en/zh/...
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
 paginate: 7
