@@ -29,32 +29,5 @@
       <description>debian安装docker 以下为官方安装的内容复制 apt-get install ca-certificates curl gnupg lsb-release curl -fsSL https://download.docker.com/linux/debian/gpg | gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg echo \ &amp;quot;deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/debian \ $(lsb_release -cs) stable&amp;quot; | tee /etc/apt/sources.list.d/docker.list &amp;gt; /dev/null apt-get update apt-get install docker-ce docker-ce-cli containerd.io systemctl start docker systemctl enable docker curl</description>
     </item>
     
-    <item>
-      <title>Three11</title>
-      <link>https://www.886400.xyz/2022/04/three11/</link>
-      <pubDate>Thu, 21 Apr 2022 16:13:00 +0800</pubDate>
-      
-      <guid>https://www.886400.xyz/2022/04/three11/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Three</title>
-      <link>https://www.886400.xyz/2022/04/three/</link>
-      <pubDate>Thu, 21 Apr 2022 16:00:11 +0800</pubDate>
-      
-      <guid>https://www.886400.xyz/2022/04/three/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two</title>
-      <link>https://www.886400.xyz/2022/04/two/</link>
-      <pubDate>Thu, 21 Apr 2022 14:05:43 +0800</pubDate>
-      
-      <guid>https://www.886400.xyz/2022/04/two/</guid>
-      <description>hello hello</description>
-    </item>
-    
   </channel>
 </rss>
