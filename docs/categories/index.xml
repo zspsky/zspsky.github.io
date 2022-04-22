@@ -6,6 +6,7 @@
     <description>Recent content in Categories on Pure theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>CC BY 4.0 CN</copyright>
+    <lastBuildDate>Thu, 21 Apr 2022 14:05:43 +0800</lastBuildDate>
     
         <atom:link href="https://www.886400.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -35,6 +36,15 @@
       
       <guid>https://www.886400.xyz/2022/04/two/</guid>
       <description>hello hello</description>
+    </item>
+    
+    <item>
+      <title>测试1</title>
+      <link>https://www.886400.xyz/2022/04/2022422_1/</link>
+      <pubDate>Thu, 21 Apr 2022 14:05:43 +0800</pubDate>
+      
+      <guid>https://www.886400.xyz/2022/04/2022422_1/</guid>
+      <description>测试1234 hello</description>
     </item>
     
   </channel>
