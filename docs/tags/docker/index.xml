@@ -6,10 +6,19 @@
     <description>Recent content in docker on Pure theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>CC BY 4.0 CN</copyright>
-    <lastBuildDate>Fri, 22 Apr 2022 14:05:43 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 22 Apr 2022 15:44:52 +0800</lastBuildDate>
     
         <atom:link href="https://www.886400.xyz/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ubuntu下安装docker</title>
+      <link>https://www.886400.xyz/2022/04/4221/</link>
+      <pubDate>Fri, 22 Apr 2022 15:44:52 +0800</pubDate>
+      
+      <guid>https://www.886400.xyz/2022/04/4221/</guid>
+      <description>debian安装docker 以下为官方安装的内容复制</description>
+    </item>
     
     <item>
       <title>debian安装docker</title>
