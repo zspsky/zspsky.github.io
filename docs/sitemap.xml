@@ -24,13 +24,6 @@
   </url>
   
   <url>
-    <loc>https://www.886400.xyz/</loc>
-    <lastmod>2022-04-22T15:44:52+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.886400.xyz/tags/</loc>
     <lastmod>2022-04-22T15:44:52+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -53,6 +46,13 @@
   
   <url>
     <loc>https://www.886400.xyz/categories/%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2022-04-22T15:44:52+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.886400.xyz/</loc>
     <lastmod>2022-04-22T15:44:52+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

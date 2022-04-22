@@ -1,6 +1,6 @@
 baseURL: https://www.886400.xyz/
 theme: pure
-title: Pure theme for Hugo
+title: 自用资料
 publishDir: docs
 copyright: CC BY 4.0 CN
 defaultContentLanguage: zh  # en/zh/...
@@ -9,7 +9,7 @@ hasCJKLanguage: true
 paginate: 7
 enableEmoji: true
 PygmentsCodeFences: false
-googleAnalytics: ""      # UA-XXXXXXXX-X 
+googleAnalytics: "G-0BLCR5GF84"      # UA-XXXXXXXX-X 
 permalinks:
   posts: /:year/:month/:filename/
 
