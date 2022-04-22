@@ -3,15 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.886400.xyz/categories/</loc>
+    <lastmod>2022-04-22T14:05:43+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.886400.xyz/tags/debian/</loc>
+    <lastmod>2022-04-22T14:05:43+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.886400.xyz/2022/04/2022422_1/</loc>
+    <lastmod>2022-04-22T14:05:43+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.886400.xyz/tags/docker/</loc>
+    <lastmod>2022-04-22T14:05:43+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.886400.xyz/posts/</loc>
-    <lastmod>2022-04-21T16:13:00+08:00</lastmod>
+    <lastmod>2022-04-22T14:05:43+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.886400.xyz/</loc>
-    <lastmod>2022-04-21T16:13:00+08:00</lastmod>
+    <lastmod>2022-04-22T14:05:43+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.886400.xyz/tags/</loc>
+    <lastmod>2022-04-22T14:05:43+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.886400.xyz/categories/%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2022-04-22T14:05:43+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,49 +73,7 @@
   </url>
   
   <url>
-    <loc>https://www.886400.xyz/categories/</loc>
-    <lastmod>2022-04-21T14:05:43+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.886400.xyz/tags/debian/</loc>
-    <lastmod>2022-04-21T14:05:43+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.886400.xyz/2022/04/2022422_1/</loc>
-    <lastmod>2022-04-21T14:05:43+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.886400.xyz/tags/docker/</loc>
-    <lastmod>2022-04-21T14:05:43+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.886400.xyz/tags/</loc>
-    <lastmod>2022-04-21T14:05:43+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.886400.xyz/2022/04/two/</loc>
-    <lastmod>2022-04-21T14:05:43+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.886400.xyz/categories/%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2022-04-21T14:05:43+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
