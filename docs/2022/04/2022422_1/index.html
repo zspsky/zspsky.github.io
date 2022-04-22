@@ -328,7 +328,7 @@ function tagCloud(where, min, max) {
     <div class="article-entry marked-body js-toc-content" itemprop="articleBody">
       <h1 id="debian安装docker">debian安装docker</h1>
 <h3 id="以下为官方安装的内容复制">以下为官方安装的内容复制</h3>
-<pre><code>apt-get install   ca-certificates   curl    gnupg   lsb-release
+<pre><code class="language-bash">apt-get install   ca-certificates   curl    gnupg   lsb-release
 curl -fsSL https://download.docker.com/linux/debian/gpg |  gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
 echo \
   &quot;deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/debian \
@@ -339,7 +339,6 @@ systemctl start docker
 systemctl enable docker
 curl -L &quot;https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)&quot; -o /usr/local/bin/docker-compose
 chmod u+x /usr/local/bin/docker-compose
-
 </code></pre>
 
     </div>
